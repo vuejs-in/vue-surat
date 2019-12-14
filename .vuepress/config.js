@@ -100,11 +100,11 @@ module.exports = {
               },*/
               {
                 text: 'Facebook Page',
-                link: 'https://www.facebook.com/vue.surat'
+                link: 'https://www.facebook.com/vuesurat'
               },
               {
                 text: 'Facebook Group',
-                link: 'https://www.facebook.com/groups/vue.surat'
+                link: 'https://www.facebook.com/groups/vuesurat'
               }
             ]
           },
