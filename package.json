@@ -1,0 +1,28 @@
+{
+  "private": false,
+  "name": "vue-bangalore",
+  "version": "0.0.0",
+  "description": "A Vue meetup in Bangalore, India.",
+  "scripts": {
+    "build": "vuepress build .",
+    "serve": "vuepress dev ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znck/vue-bangalore.git"
+  },
+  "author": "Rahul Kadyan <hi@znck.me> (https://znck.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znck/vue-bangalore/issues"
+  },
+  "homepage": "https://blr.vue.community",
+  "dependencies": {
+    "frontmatter": "^0.0.3",
+    "globby": "^9.2.0",
+    "vue-carousel": "^0.18.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
