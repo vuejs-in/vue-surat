@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-  <img src="https://blr.vue.community/logo.png" width="100" />
+  <img src="https://stv.vue.community/logo.png" width="100" />
   <h1>Vue Surat</h1>
   <p>A Vue meetup in Surat, India.</p>
 </div>
