@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
   <img src="https://blr.vue.community/logo.png" width="100" />
-  <h1>Vue VAR_CITY</h1>
-  <p>A Vue meetup in VAR_CITY, VAR_COUNTRY.</p>
+  <h1>Vue Surat</h1>
+  <p>A Vue meetup in Surat, India.</p>
 </div>
 
 ## What?
@@ -46,7 +46,7 @@ Use any of the following methods to communicate with us:
 
 ## Organizers
 
-- VAR_ORGANIZER - [VAR_ORGANIZER_TWITTER](VAR_ORGANIZER_TWITTER_LINK)
+- Mayur Sojitra - [@mayur_sojitra](https://twitter.com/mayur_sojitra)
 
 -------------
 This repository is created from [the vue-meetup-template](https://github.com/VueJS-IN/vue-meetup-template) by [znck](https://github.com/znck).
