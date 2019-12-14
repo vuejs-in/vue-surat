@@ -55,7 +55,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/logo.png',
-    repo: 'vuejs-in/vue-bangalore',
+    repo: 'vuejs-in/vue-surat',
     docsDir: '/',
     locales: {
       '/': {
@@ -75,40 +75,36 @@ module.exports = {
               ]
             }]
           },
-          {
+          /*{
             text: 'Propose a Talk',
             link: 'http://bit.ly/vueblrcfp'
           },
           {
             text: 'Newsletter',
             link: 'https://buttondown.email/VueBLR'
-          },
+          },*/
           {
             text: 'Code of Conduct',
-            link: 'https://github.com/VueJS-IN/vue-bangalore/blob/master/CODE_OF_CONDUCT.md'
+            link: 'https://github.com/VueJS-IN/vue-surat/blob/master/CODE_OF_CONDUCT.md'
           },
           {
             text: 'Join Us',
             items: [
               {
-                text: 'Meetup',
-                link: 'https://meetup.com/vue-bangalore'
-              },
-              {
                 text: 'Twitter',
-                link: 'https://twitter.com/vueblr'
+                link: 'https://twitter.com/vuesurat'
               },
-              {
+              /*{
                 text: 'WhatsApp',
-                link: 'http://bit.ly/vueblr-whatsapp'
-              },
+                link: 'http://bit.ly/vuestv-whatsapp'
+              },*/
               {
                 text: 'Facebook Page',
-                link: 'https://www.facebook.com/vue.blr'
+                link: 'https://www.facebook.com/vue.surat'
               },
               {
                 text: 'Facebook Group',
-                link: 'https://www.facebook.com/groups/vue.blr'
+                link: 'https://www.facebook.com/groups/vue.surat'
               }
             ]
           },
