@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-  <img src="https://stv.vue.community/logo.png" width="100" />
+  <img src="https://surat.vue.community/logo.png" width="100" />
   <h1>Vue Surat</h1>
   <p>A Vue meetup in Surat, India.</p>
 </div>
@@ -47,6 +47,3 @@ Use any of the following methods to communicate with us:
 ## Organizers
 
 - Mayur Sojitra - [@mayur_sojitra](https://twitter.com/mayur_sojitra)
-
--------------
-This repository is created from [the vue-meetup-template](https://github.com/VueJS-IN/vue-meetup-template) by [znck](https://github.com/znck).
