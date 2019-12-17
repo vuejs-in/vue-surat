@@ -1,7 +1,7 @@
 const { events } = require('./plugins/events')
 
 module.exports = {
-  title: 'VueSTV',
+  title: 'Vue Surat Community',
   description: 'Vue Meetup in Surat, India',
   ga: 'UA-114395411-1', 
   plugins: [

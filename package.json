@@ -14,7 +14,7 @@
   "author": "Mayur Sojitra <mayur@murait.com> (https://mayursojitra.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/znck/vue-bangalore/issues"
+    "url": "https://github.com/vuejs-in/vue-surat/issues"
   },
   "homepage": "https://surat.vue.community",
   "dependencies": {
