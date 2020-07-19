@@ -19,13 +19,13 @@
   "homepage": "https://surat.vue.community",
   "dependencies": {
     "frontmatter": "^0.0.3",
-    "globby": "^9.2.0",
+    "globby": "^11.0.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.19",
     "vue-carousel": "^0.18.0",
     "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
-    "vuepress": "^1.0.2"
+    "vuepress": "^1.5.2"
   }
 }
